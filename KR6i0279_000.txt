@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說首楞嚴三昧經
+#+DATE: 2015-08-30 20:14:57.431138
+#+PROPERTY: JUAN 0
