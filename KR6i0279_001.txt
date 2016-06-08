@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:58.487912
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:11
 #+TITLE: 佛說首楞嚴三昧經
 #+PROPERTY: CBETA_ID T15n0642
 #+PROPERTY: ID KR6i0279
